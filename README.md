@@ -1,1 +1,1 @@
-# ML_algorithms_labo
+# ML_algorithms_labos
