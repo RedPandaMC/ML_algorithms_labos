@@ -158,3 +158,13 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+/les3/images/decision_trees/decision_tree_decision_boundaries_plot.png
+/les3/images/decision_trees/iris_tree.dot
+/les3/images/decision_trees/min_samples_leaf_plot.png
+/les3/data/titanic_dataset.csv
+/les3/images/decision_trees/tree_regression_plot.png
+/les3/images/decision_trees/tree_regression_regularization_plot.png
+/les3/wine1.dot
+/les3/wine1.svg
+/les3/wine2.dot
+/les3/wine2.svg
