@@ -168,6 +168,6 @@ cython_debug/
 /les3/wine1.svg
 /les3/wine2.dot
 /les3/wine2.svg
-/les5/data/creditcard.csv
-/les5/data/diabetes.csv
-/les5/data/Telco-Customer-Churn.csv
+/les4_herhaling/data/creditcard.csv
+/les4_herhaling/data/diabetes.csv
+/les4_herhaling/data/Telco-Customer-Churn.csv
